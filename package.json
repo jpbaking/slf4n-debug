@@ -1,0 +1,33 @@
+{
+  "name": "slf4n-debug",
+  "version": "1.0.0",
+  "description": "Simple Logging Facade for NodeJS using 'debug'",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*Test.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbaking/slf4n-debug.git"
+  },
+  "keywords": [
+    "jpbaking",
+    "slf4j",
+    "slf4n",
+    "logger",
+    "logging",
+    "log",
+    "logfactory",
+    "loggerfactory",
+    "debug"
+  ],
+  "author": "Joseph Baking <josephbaking.ph@gmail.com> (https://github.com/jpbaking)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpbaking/slf4n-debug/issues"
+  },
+  "homepage": "https://github.com/jpbaking/slf4n-debug#readme",
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}
